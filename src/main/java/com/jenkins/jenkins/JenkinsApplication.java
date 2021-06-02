@@ -17,6 +17,7 @@ public static Logger logger = (Logger) LoggerFactory.getLogger(JenkinsApplicatio
 
 	public static void main(String[] args) {
 		logger.info("application initialized.....");
+		logger.info("application running.....");
 		SpringApplication.run(JenkinsApplication.class, args);
 	}
 
