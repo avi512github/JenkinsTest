@@ -1,4 +1,4 @@
-package com.jenkins.jenkins;
+package com.jenkins.resources;
 
 
 

@@ -1,4 +1,4 @@
-package com.jenkins.jenkins;
+package com.jenkins.test;
 
 import static org.junit.Assert.assertEquals;
 
